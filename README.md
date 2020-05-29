@@ -10,6 +10,9 @@
     * Single-channel: Gray Level Image
     * Triple-channel: Color Image
 
+
+
+
 # 人臉辨識
 使用OpenCV, Python與深度學習來實踐人臉辨識
 
