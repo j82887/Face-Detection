@@ -30,3 +30,9 @@
 
 * 課程四、人臉辨識
     * 將透過Haar Cascades提取人臉影像，並透過CNN模型進行人臉辨識。
+    
+* 課程五、如何訓練Yolo v3 Tiny模型
+
+* 課程六、如何使用Yolo v3 Tiny模型(Python)
+
+* 課程七、如何使用Yolo v3 Tiny模型(Android)
