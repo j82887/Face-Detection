@@ -1,6 +1,9 @@
 package com.ndhu.yolov3test;
 
+import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
+
+import android.Manifest;
 import android.os.Environment;
 import android.os.Bundle;
 import android.view.SurfaceView;
@@ -27,10 +30,14 @@ import org.opencv.imgproc.Imgproc;
 import org.opencv.dnn.Dnn;
 import org.opencv.utils.Converters;
 
+import java.io.File;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Random;
+
+import com.github.dfqin.grantor.PermissionListener;
+import com.github.dfqin.grantor.PermissionsUtil;
 
 public class MainActivity extends AppCompatActivity implements CameraBridgeViewBase.CvCameraViewListener2 {
 
@@ -83,6 +90,25 @@ public class MainActivity extends AppCompatActivity implements CameraBridgeViewB
                 }
             }
         };
+
+        if (PermissionsUtil.hasPermission(this, new String[]{Manifest.permission. CAMERA  ,Manifest.permission. WRITE_EXTERNAL_STORAGE})) {
+            // Al granted already.
+//            start();
+        } else {
+            PermissionsUtil.requestPermission(this, new PermissionListener() {
+
+                public void permissionGranted(@NonNull String[] permissions) {
+                    // User grant.
+//                    start();
+                }
+
+                public void permissionDenied(@NonNull String[] permissions) {
+                    // User reject.
+                    Toast.makeText(MainActivity.this, "User reject some rights", Toast.LENGTH_LONG).show();
+                }
+            }, new String[]{Manifest.permission.RECORD_AUDIO, Manifest.permission.CAMERA, Manifest.permission.PROCESS_OUTGOING_CALLS, Manifest.permission.READ_PHONE_STATE, Manifest.permission.WRITE_EXTERNAL_STORAGE, Manifest.permission.INTERNET});
+        }
+
     }
 
     @Override
