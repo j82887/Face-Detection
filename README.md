@@ -1,18 +1,3 @@
-# Face Detection
- Face recognition with OpenCV, Python, and deep learning
- 
-* Class 1. Face recognition
-    * Face Detection using Haar Cascades. First we need to load the required XML classifiers. Then load our input image (or video) in grayscale mode.
-    * Now we find the faces in the image. If faces are found, it returns the positions of detected faces as Rect(x,y,w,h). 
-    * Once we get these locations, we can create a ROI for the face.
-* Class 2. Save Face/Frame
-* Class 3. Training CNN model
-    * Single-channel: Gray Level Image
-    * Triple-channel: Color Image
-
-
-
-
 # 人臉辨識
 使用OpenCV, Python與深度學習來實踐人臉辨識
 
@@ -36,3 +21,5 @@
 * 課程六、如何使用Yolo v3 Tiny模型(Python)
 
 * 課程七、如何使用Yolo v3 Tiny模型(Android)
+
+* 課程八、如何使用Yolo v4 模型(Python)
