@@ -23,3 +23,5 @@
 * 課程七、如何使用Yolo v3 Tiny模型(Android)
 
 * 課程八、如何使用Yolo v4 模型(Python)
+
+* 課程九、如何使用Yolo v5 模型(Python)
