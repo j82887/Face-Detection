@@ -25,13 +25,13 @@
 ## One Stage
 * 課程一、使用Google colab來訓練Yolo v3 (Tiny)模型
    * Google colab 介面介紹
-         * 基本操作
-         * 如何借用GPU
-         * 上傳與下載程式，使用本機上傳、Github連結或Google雲端
+      * 基本操作
+      * 如何借用GPU
+      * 上傳與下載程式，使用本機上傳、Github連結或Google雲端
          
    * 使用git clone來安裝Darknet，並更改Makefile檔案。
    * 實作一、口罩檢測
-         * Kaggle 口罩資料集 Medical Masks Dataset(https://www.kaggle.com/vtech6/medical-masks-dataset/data)
+      * Kaggle 口罩資料集 Medical Masks Dataset(https://www.kaggle.com/vtech6/medical-masks-dataset/data)
    
 * 課程二、如何使用Yolo v3 Tiny模型(Python)
 
