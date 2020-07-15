@@ -32,7 +32,8 @@
    * 使用git clone來安裝Darknet，並更改Makefile檔案。
    * 實作一、口罩檢測
       * Kaggle 口罩資料集 Medical Masks Dataset(https://www.kaggle.com/vtech6/medical-masks-dataset/data)
-   
+   * 實作二、人臉辨識
+      * 使用labelImg建立影像資料集 
 * 課程二、如何使用Yolo v3 Tiny模型(Python)
 
 * 課程三、如何使用Yolo v3 Tiny模型(Android)
