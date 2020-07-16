@@ -31,7 +31,8 @@
          
    * 使用git clone來安裝Darknet，並更改Makefile檔案。
    * 實作一、口罩檢測
-      * Kaggle 口罩資料集 Medical Masks Dataset(https://www.kaggle.com/vtech6/medical-masks-dataset/data)
+      * Kaggle 口罩資料集 Medical Masks Dataset
+        (https://www.kaggle.com/vtech6/medical-masks-dataset/data)
       * 檢視資料集，打開影像與xml標注檔案
       * xml轉換至txt Yolo標準標注檔案
       * 資料分割訓練與測試集
