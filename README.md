@@ -57,5 +57,5 @@
 * 課程五、如何使用Yolo v5 模型(Python)
 
 * 課程五、模型轉換器
-    * 使用模型轉換器將Darknet的模型(副檔名為.weight)轉為Tensorflow lite(副檔名為.tflite)
+    * 使用模型轉換器將Darknet的模型(副檔名為.weight)轉為Tensorflow(副檔名為.pb)
 
