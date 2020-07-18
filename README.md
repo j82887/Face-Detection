@@ -60,6 +60,12 @@
     * 使用模型轉換器將Darknet的模型(副檔名為.weight)轉為Tensorflow(副檔名為.pb)
       * 利用DW2TF將Darknet的模型轉為Tensorflow 
         (https://github.com/jinyu121/DW2TF)
+         `python3 main.py \``
+         `--cfg 'data/yolov3.cfg' \`
+         `--weights 'data/yolov3.weights' \`
+         `--output 'data/' \`
+         `--prefix 'yolov3/' \`
+         `--gpu 0`
       * 模型視覺化
          * 利用 Netron 視覺化：https://lutzroeder.github.io/netron/
          * 利用 TensorBoard
