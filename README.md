@@ -23,7 +23,7 @@
 * 課程六、如何在Android使用Tensorflow lite模型
 
 ## One Stage
-* 課程一、使用Google colab來訓練Yolo v3 (Tiny)模型
+* 課程七、使用Google colab來訓練Yolo v3 (Tiny)模型
    * Google colab 介面介紹
       * 基本操作
       * 如何借用GPU
@@ -45,18 +45,18 @@
       * 使用labelImg建立影像資料集
       * 與實作一相同步驟來訓練人臉辨識的olo v3 (Tiny)模型
       
-* 課程二、如何使用Yolo v3 Tiny模型(Python)
+* 課程八、如何使用Yolo v3 Tiny模型(Python)
    * 使用OpenCV來讀取Yolo v3模型
    * 了解Yolo v3 模型的輸出格式
    * 使用Non-Maximum Suppression移除多餘的標註框
 
-* 課程三、如何使用Yolo v3 Tiny模型(Android)
+* 課程九、如何使用Yolo v3 Tiny模型(Android)
 
-* 課程四、如何使用Yolo v4 模型(Python)
+* 課程十、如何使用Yolo v4 模型(Python)
 
-* 課程五、如何使用Yolo v5 模型(Python)
+* 課程十一、如何使用Yolo v5 模型(Python)
 
-* 課程五、模型轉換器
+* 課程十二、模型轉換器
     * 使用模型轉換器將Darknet的模型(副檔名為.weight)轉為Tensorflow(副檔名為.pb)
       * 利用DW2TF將Darknet的模型轉為Tensorflow，以下以Yolo v3 Tiny模型為範例： 
         (https://github.com/jinyu121/DW2TF)
