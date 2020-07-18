@@ -64,7 +64,7 @@
          * 給予設定檔案 `--cfg 'data/yolov3.cfg'`
          * 給予權重檔案 `--weights 'data/yolov3.weights'`
          * 給予輸出位置 `--output 'data/'` 
-         * 預轉換的模型 `--prefix 'yolov3/' 
+         * 預轉換的模型 `--prefix 'yolov3/'`
          * 選擇的GPU `--gpu 0`
       * 模型視覺化
          * 利用 Netron 視覺化：https://lutzroeder.github.io/netron/
