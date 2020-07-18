@@ -58,4 +58,9 @@
 
 * 課程五、模型轉換器
     * 使用模型轉換器將Darknet的模型(副檔名為.weight)轉為Tensorflow(副檔名為.pb)
-
+      * 利用DW2TF將Darknet的模型轉為Tensorflow 
+        (https://github.com/jinyu121/DW2TF)
+      * 模型視覺化
+         * 利用 Netron 視覺化：https://lutzroeder.github.io/netron/
+         * 利用 TensorBoard
+      * 模型固化 freeze graph
