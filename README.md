@@ -71,3 +71,6 @@
          * 利用 Netron 視覺化：https://lutzroeder.github.io/netron/
          * 利用 TensorBoard
       * 模型固化 freeze graph
+
+# ".cfg"
+https://drive.google.com/file/d/1bkfmn-VrPPdEEcXP0Q4fl8Fdf15IgjkO/view?usp=sharing
