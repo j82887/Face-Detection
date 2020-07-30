@@ -43,6 +43,7 @@
       * 測試模型的預測能力
    * 實作二、人臉辨識
       * 使用labelImg建立影像資料集
+        (https://github.com/tzutalin/labelImg)
       * 與實作一相同步驟來訓練人臉辨識的olo v3 (Tiny)模型
       
 * 課程八、如何使用Yolo v3 Tiny模型(Python)
