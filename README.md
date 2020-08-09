@@ -71,3 +71,10 @@
          * 利用 Netron 視覺化：https://lutzroeder.github.io/netron/
          * 利用 TensorBoard
       * 模型固化 freeze graph
+
+# 人臉貼圖
+使用OpenCV, Python與深度學習來實踐人臉辨識，如下課程分為Python與Android上實踐。
+
+## Python 
+* 課程十三、豬鼻子貼圖
+   * 透過先前人臉辨識模型與dlib來實現人臉貼圖
