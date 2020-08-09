@@ -72,6 +72,7 @@
          * 利用 TensorBoard
       * 模型固化 freeze graph
 
+
 # 人臉貼圖
 使用OpenCV, Python與深度學習來實踐人臉辨識，如下課程分為Python與Android上實踐。
 
