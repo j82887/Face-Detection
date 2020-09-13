@@ -1,7 +1,7 @@
 # 人臉辨識
 使用OpenCV, Python與深度學習來實踐人臉辨識，如下課程分為Two Stage與One Stage。
 
-!(github)[https://img.technews.tw/wp-content/uploads/2019/12/09153803/shutterstock_680761540-624x416.jpg]
+![github](https://img.technews.tw/wp-content/uploads/2019/12/09153803/shutterstock_680761540-624x416.jpg)
 
 ## Two Stage
 * 課程一、使用OpenCV進行人臉識別
