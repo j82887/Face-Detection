@@ -1,7 +1,7 @@
+![github](https://www.mayohr.com/wp-content/uploads/2020/03/facepass_02.png)
+
 # 人臉辨識
 使用OpenCV, Python與深度學習來實踐人臉辨識，如下課程分為Two Stage與One Stage。
-
-![github](https://www.mayohr.com/wp-content/uploads/2020/03/facepass_02.png)
 
 ## Two Stage
 * 課程一、使用OpenCV進行人臉識別
@@ -19,10 +19,9 @@
 * 課程十一、如何使用Yolo v5 模型(Python)
 * 課程十二、模型轉換器(Model Conversion and Visualization)
 
-
-# 人臉貼圖
 ![github](https://lineofficial.blogimg.jp/en/imgs/b/3/b371b71e.png)
 
+# 人臉貼圖
 使用OpenCV, Python與深度學習來實踐人臉辨識，如下課程分為Python與Android上實踐。
  
 * 課程十三、人臉特徵器
