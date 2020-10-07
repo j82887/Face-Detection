@@ -21,7 +21,7 @@
 
 
 # 人臉貼圖
-![github](https://4.bp.blogspot.com/-lltiw4YQdLM/XOWhIc5N4UI/AAAAAAAAAHk/MwyvLQoCJZE6HTEm6yxPlQrOkA0x-2ttQCLcBGAs/s1600/screenshot-play.google.com-2019.05.23-00-50-35.png)
+![github](https://lineofficial.blogimg.jp/en/imgs/b/3/b371b71e.png)
 
 使用OpenCV, Python與深度學習來實踐人臉辨識，如下課程分為Python與Android上實踐。
  
