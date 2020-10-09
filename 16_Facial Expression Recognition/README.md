@@ -18,11 +18,11 @@
 4. 以條件式定義左上角不能超出畫面外
 5. 貼圖處理：
 
-    a. 灰階化
-    b. 二值化 
-    c. 取出預貼圖之區域
-    d. 區域與貼圖透過遮罩生成final以貼圖之區域影像
-    e. 整張影像更換預貼圖之區域
+  a. 灰階化
+  b. 二值化 
+  c. 取出預貼圖之區域
+  d. 區域與貼圖透過遮罩生成final以貼圖之區域影像
+  e. 整張影像更換預貼圖之區域
  <img src="https://raw.githubusercontent.com/j82887/Face-Detection/master/00_Image/Total_Second.png" width="800">
  
 # 影像進行測試
