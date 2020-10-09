@@ -22,7 +22,7 @@
   c. 取出預貼圖之區域
   d. 區域與貼圖透過遮罩生成final以貼圖之區域影像
   e. 整張影像更換預貼圖之區域
- <img src="https://raw.githubusercontent.com/j82887/Face-Detection/master/00_Image/Total_Second.png" width="200">
+ <img src="https://raw.githubusercontent.com/j82887/Face-Detection/master/00_Image/Total_Second.png" width="800">
  
 # 影像進行測試
 * 讀取影像
