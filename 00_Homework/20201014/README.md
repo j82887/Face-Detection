@@ -31,7 +31,7 @@
 #### 3. Model: <https://drive.google.com/file/d/1AGBMPYs_nDWnhcy8Nnoe7npihMCxXudr/view?usp=sharing>
 <img src="https://raw.githubusercontent.com/j82887/Face-Detection/master/00_Image/homework_1014_Mnist_Acc.png" width="400">   <img src="https://raw.githubusercontent.com/j82887/Face-Detection/master/00_Image/homework_1014_Mnist_Loss.png" width="400">
 
-<img src="https://raw.githubusercontent.com/j82887/Face-Detection/master/00_Image/homework_1014_Mnist_Confusion_matrix.png" width="700">
+<img src="https://raw.githubusercontent.com/j82887/Face-Detection/master/00_Image/homework_1014_Mnist_Confusion_matrix.png" width="550">
     
 #### 4. 設計GUI介面
     a. 視窗名稱與標題
