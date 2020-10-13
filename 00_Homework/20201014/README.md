@@ -14,7 +14,7 @@
     b. 需呈現訓練集的預測結果，混淆矩陣與準確度
 
 <img src="https://raw.githubusercontent.com/j82887/Face-Detection/master/00_Image/homework_1014_acc.png" width="400">   <img src="https://raw.githubusercontent.com/j82887/Face-Detection/master/00_Image/homework_1014_loss.png" width="400">
-#### 3. Model:    
+#### 3. Model: <https://github.com/j82887/Face-Detection/raw/master/00_Homework/20201014/cnn_dog_vs_cat.h5>
 #### 4. 設計GUI介面：
     a. 視窗名稱與標題
     b. 插圖與預測標籤文字
