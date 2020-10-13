@@ -26,7 +26,7 @@
 #### 1. 使用灰階單輸入的影像
 #### 2. 模型訓練以Kears來自行設計，其模型需以卷積網路來建立
     a. 需呈現訓練過程的學習曲線（包含訓練集與驗證集，其中x軸為迭代次數，y軸為準確度與誤差）
-    b. 需呈現訓練與測試集的預測結果，混淆矩陣與準確度
+    b. 需呈現訓練集的預測結果，混淆矩陣與準確度
 
 <img src="https://raw.githubusercontent.com/j82887/Face-Detection/master/00_Image/homework_1014_Mnist_Acc.png" width="400">   <img src="https://raw.githubusercontent.com/j82887/Face-Detection/master/00_Image/homework_1014_Mnist_Loss.png" width="400">
 
