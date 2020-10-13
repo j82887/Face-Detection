@@ -5,7 +5,7 @@
     d. 使用的模型是已經訓練好的Kears神經網路
 
 <img src="https://raw.githubusercontent.com/j82887/Face-Detection/master/00_Image/homework_1014_Fer_01.png" width="400">
-
+<img src="https://raw.githubusercontent.com/j82887/Face-Detection/master/00_Image/homework_1014_Fer_02.png" width="400">
 
 # 02. 貓狗影像辨識
 #### 1. 使用彩色多輸入的影像
