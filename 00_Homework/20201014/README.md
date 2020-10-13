@@ -30,7 +30,7 @@
 
 <img src="https://raw.githubusercontent.com/j82887/Face-Detection/master/00_Image/homework_1014_Mnist_Acc.png" width="400">   <img src="https://raw.githubusercontent.com/j82887/Face-Detection/master/00_Image/homework_1014_Mnist_Loss.png" width="400">
 
-<img src="https://raw.githubusercontent.com/j82887/Face-Detection/master/00_Image/homework_1014_Mnist_Confusion_matrix.png" width="400">
+<img src="https://raw.githubusercontent.com/j82887/Face-Detection/master/00_Image/homework_1014_Mnist_Confusion_matrix.png" width="700">
     
 #### 3. 設計GUI介面
     a. 視窗名稱與標題
