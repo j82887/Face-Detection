@@ -1,9 +1,10 @@
 # 01. 貼圖臉部表情辨識
+#### 1. 設計GUI介面：
     a. 顯示人臉表情貼圖，並至於右下角
     b. 顯示機率最高的表情文字
     c. 顯示機率最高的數值
     d. 使用的模型是已經訓練好的Kears神經網路
-
+#### 2. Model: <https://drive.google.com/file/d/1Uh97Lx0hIbzseaE6_XvED7aFC511rzLw/view?usp=sharing>
 <img src="https://raw.githubusercontent.com/j82887/Face-Detection/master/00_Image/homework_1014_Fer_01.png" width="400">   <img src="https://raw.githubusercontent.com/j82887/Face-Detection/master/00_Image/homework_1014_Fer_02.png" width="400">
 
 # 02. 貓狗影像辨識
