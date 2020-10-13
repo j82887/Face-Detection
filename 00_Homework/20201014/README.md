@@ -19,8 +19,8 @@
     b. 插圖與預測標籤文字
     c. 按鈕觸發事件，事件為選擇影像與更換影像，並進行影像帶入模型之預測，其預測結果來更換預測標籤文字
 
-<img src="https://raw.githubusercontent.com/j82887/Face-Detection/master/00_Image/homework_1014_cat%20vs%20dog_GUI_01.png" width="400">
 <img src="https://raw.githubusercontent.com/j82887/Face-Detection/master/00_Image/homework_1014_cat%20vs%20dog_GUI_02.png" width="800">
+<img src="https://raw.githubusercontent.com/j82887/Face-Detection/master/00_Image/homework_1014_cat%20vs%20dog_GUI_01.png" width="350">
 
 # 03. 數字手寫辨識
 #### 1. 使用灰階單輸入的影像
