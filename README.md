@@ -21,7 +21,7 @@
 
 ![github](https://lineofficial.blogimg.jp/en/imgs/b/3/b371b71e.png)
 
-# 人臉貼圖
+# 人臉貼圖與表情偵測
 使用OpenCV, Python與深度學習來實踐人臉辨識，如下課程分為Python與Android上實踐。
  
 * 課程十三、人臉特徵器
