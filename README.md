@@ -21,11 +21,12 @@
 
 ![github](https://lineofficial.blogimg.jp/en/imgs/b/3/b371b71e.png)
 
-# 人臉貼圖與表情偵測
-使用OpenCV, Python與深度學習來實踐人臉辨識，如下課程分為Python與Android上實踐。
+# 人臉貼圖、表情與打瞌睡偵測
+使用OpenCV, Python與深度學習來實踐人臉相關的多項功能，如下課程分為Python與Android上實踐。
  
 * 課程十三、人臉特徵器
 * 課程十四、豬鼻子貼圖
 * 課程十五、人臉辨識貼圖
 * 課程十六、人臉表情辨識
 * 課程十七、GUI介面來建立貼圖系統
+* 課程十八、打瞌睡偵測
