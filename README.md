@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/j82887/Face-Detection/master/00_Image/README%20-%20Title1.png" width="600">
+<img src="https://raw.githubusercontent.com/j82887/Face-Detection/master/00_Image/README%20-%20Title1.png" width="1000">
 
 # 人臉辨識
 使用OpenCV, Python與深度學習來實踐人臉辨識，如下課程分為Two Stage與One Stage。
