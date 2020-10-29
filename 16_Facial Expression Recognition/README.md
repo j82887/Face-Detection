@@ -1,5 +1,8 @@
 # 讀取Tensorflow中的Keras模型（.h5）
 * 使用summary()來打印模型的架構
+* Data set: 
+    1. https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
+    2. https://www.kaggle.com/msambare/fer2013
 
 # 建立detect_faces方法
 * 輸入為影像
